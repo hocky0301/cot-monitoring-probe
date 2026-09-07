@@ -1,0 +1,53 @@
+{
+  "checked_date_jst": "2026-09-07",
+  "primary_source": "https://deploymentsafety.openai.com/gpt-6-astra/vision",
+  "provenance_class": "L1: developer-published evaluation",
+  "table9": {
+    "same_problem_and_reasoning_effort": true,
+    "constraint": "Alternating uppercase and lowercase letters in analysis, without discussing that constraint.",
+    "all_three_correct": "Reported in the caption.",
+    "description_basis": "Observed text; no inferred quarrel or evasion intention asserted.",
+    "excerpt_words": 9,
+    "excerpt_sha256": "47e46ec0709d7b52643d5c94f874506e958d7f536b5188f07f911b57255d28f4"
+  },
+  "control_rates": {
+    "section": "9.2.1",
+    "cot_length_bin": [
+      750,
+      1250
+    ],
+    "rates_percent": {
+      "GPT-5.5 Thinking": 1.7,
+      "GPT-5.6 Sol": 16.1,
+      "GPT-6 Astra": 60.9
+    },
+    "reported_datasets": [
+      "MMLU-Pro",
+      "HLE",
+      "GPQA"
+    ],
+    "instruction_types": 8,
+    "length_bin_sample_count": null,
+    "full_suite_more_than_13000_is_not_the_denominator": true,
+    "metric": "Constraint adherence, not answer accuracy, monitor recall, or evasion success."
+  },
+  "length_connection": {
+    "sections": [
+      "9.1.2",
+      "9.1.3"
+    ],
+    "developer_account": "Shorter and less informative reasoning, with reduced propensity and necessity for verbalization.",
+    "residual_long_length_environments": [
+      "Health Queries: Patient Opinion",
+      "Destructive Actions"
+    ],
+    "local_observable": "usage.output_tokens_details.reasoning_tokens",
+    "local_intervention": "Notice wording",
+    "local_outcome": "Generated reasoning-token count",
+    "local_monitor_outcomes_measured": false,
+    "exact_counting_equivalence_established": false
+  },
+  "safety_scope": "A concern for CoT-based oversight; not a claim of an overall safety regression.",
+  "api_reference": "https://developers.openai.com/api/docs/guides/reasoning",
+  "metric_definition_background": "https://arxiv.org/abs/2603.05706"
+}

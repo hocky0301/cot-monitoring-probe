@@ -1,0 +1,75 @@
+{
+  "fresh_contrast_checks": {
+    "main:D_monitored-A_bare": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    },
+    "main:D_monitored-C_logged": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    },
+    "main:C_logged-A_bare": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    },
+    "main:B_placebo-A_bare": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    },
+    "main2:RD_rule_monitored-RC_rule_logged": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    },
+    "main2:RD_rule_monitored-R0_rule": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    },
+    "main2:RC_rule_logged-R0_rule": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    },
+    "main2:min_reasoning": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    },
+    "main2:compliant": {
+      "median_matches": true,
+      "sign_p_matches": true,
+      "wilcoxon_p_matches": true
+    }
+  },
+  "primary_ci_checks": {
+    "main:D_monitored-C_logged": {
+      "original_10000_seed20260906": [
+        -4.800000000000001,
+        8.3
+      ],
+      "independent_100000_seed20260906": [
+        -4.800000000000001,
+        8.3
+      ],
+      "match_at_article_precision": true
+    },
+    "main2:RD_rule_monitored-RC_rule_logged": {
+      "original_10000_seed20260906": [
+        -20.80000000000001,
+        3.8999999999999986
+      ],
+      "independent_100000_seed20260906": [
+        -20.8,
+        3.9
+      ],
+      "match_at_article_precision": true
+    }
+  },
+  "blank_fixture_confirmed": true,
+  "article_quantitative_review": "No numerical mismatch found; one wording refinement suggested at line210."
+}

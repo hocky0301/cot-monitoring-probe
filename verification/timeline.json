@@ -1,0 +1,125 @@
+{
+  "checked_date_jst": "2026-09-07",
+  "source_log_sha256": "5c462eac55a8bea2c5df74161463db71aba57c5f54d2d63099d336bf3de81c84",
+  "announcement_date_as_published": "2026-09-03",
+  "announcement_source": "https://openai.com/index/safety-overview-gpt-6-astra/",
+  "system_card_publication_date": "2026-09-03",
+  "system_card_source": "https://deploymentsafety.openai.com/gpt-6-astra/vision",
+  "calendar_date_difference_days": 3,
+  "exact_72_hour_interval_claimed": false,
+  "api_general_availability_start_established": false,
+  "timestamp_meaning": "ts is captured after the API request returns; iso is generated separately while creating the record. Endpoints describe response-completion records, not continuous runtime or total project work.",
+  "runner_source_lines": [
+    594,
+    598,
+    615,
+    616,
+    668,
+    704
+  ],
+  "all": {
+    "records": 684,
+    "first_ts": 1788682623.7462,
+    "last_ts": 1788689722.226791,
+    "first_ts_jst": "2026-09-06T17:17:03.746200+09:00",
+    "last_ts_jst": "2026-09-06T19:15:22.226791+09:00",
+    "ts_span_seconds": 7098.4805908203125,
+    "first_iso_jst": "2026-09-06T17:17:03.746981+09:00",
+    "last_iso_jst": "2026-09-06T19:15:22.226978+09:00",
+    "iso_span_seconds": 7098.479997,
+    "date_counts_from_ts_jst": {
+      "2026-09-06": 684
+    },
+    "date_counts_from_iso_jst": {
+      "2026-09-06": 684
+    }
+  },
+  "main": {
+    "records": 672,
+    "first_ts": 1788683010.498003,
+    "last_ts": 1788689722.226791,
+    "first_ts_jst": "2026-09-06T17:23:30.498003+09:00",
+    "last_ts_jst": "2026-09-06T19:15:22.226791+09:00",
+    "ts_span_seconds": 6711.728787899017,
+    "first_iso_jst": "2026-09-06T17:23:30.499043+09:00",
+    "last_iso_jst": "2026-09-06T19:15:22.226978+09:00",
+    "iso_span_seconds": 6711.727935,
+    "date_counts_from_ts_jst": {
+      "2026-09-06": 672
+    },
+    "date_counts_from_iso_jst": {
+      "2026-09-06": 672
+    }
+  },
+  "waves": {
+    "smoke": {
+      "records": 4,
+      "first_ts": 1788682623.7462,
+      "last_ts": 1788682625.761292,
+      "first_ts_jst": "2026-09-06T17:17:03.746200+09:00",
+      "last_ts_jst": "2026-09-06T17:17:05.761292+09:00",
+      "ts_span_seconds": 2.015091896057129,
+      "first_iso_jst": "2026-09-06T17:17:03.746981+09:00",
+      "last_iso_jst": "2026-09-06T17:17:05.761793+09:00",
+      "iso_span_seconds": 2.014812,
+      "date_counts_from_ts_jst": {
+        "2026-09-06": 4
+      },
+      "date_counts_from_iso_jst": {
+        "2026-09-06": 4
+      }
+    },
+    "main": {
+      "records": 480,
+      "first_ts": 1788683010.498003,
+      "last_ts": 1788683273.3064241,
+      "first_ts_jst": "2026-09-06T17:23:30.498003+09:00",
+      "last_ts_jst": "2026-09-06T17:27:53.306424+09:00",
+      "ts_span_seconds": 262.80842113494873,
+      "first_iso_jst": "2026-09-06T17:23:30.499043+09:00",
+      "last_iso_jst": "2026-09-06T17:27:53.306526+09:00",
+      "iso_span_seconds": 262.807483,
+      "date_counts_from_ts_jst": {
+        "2026-09-06": 480
+      },
+      "date_counts_from_iso_jst": {
+        "2026-09-06": 480
+      }
+    },
+    "smoke2": {
+      "records": 8,
+      "first_ts": 1788686350.624768,
+      "last_ts": 1788686364.726061,
+      "first_ts_jst": "2026-09-06T18:19:10.624768+09:00",
+      "last_ts_jst": "2026-09-06T18:19:24.726061+09:00",
+      "ts_span_seconds": 14.101293087005615,
+      "first_iso_jst": "2026-09-06T18:19:10.625623+09:00",
+      "last_iso_jst": "2026-09-06T18:19:24.726382+09:00",
+      "iso_span_seconds": 14.100759,
+      "date_counts_from_ts_jst": {
+        "2026-09-06": 8
+      },
+      "date_counts_from_iso_jst": {
+        "2026-09-06": 8
+      }
+    },
+    "main2": {
+      "records": 192,
+      "first_ts": 1788689502.934669,
+      "last_ts": 1788689722.226791,
+      "first_ts_jst": "2026-09-06T19:11:42.934669+09:00",
+      "last_ts_jst": "2026-09-06T19:15:22.226791+09:00",
+      "ts_span_seconds": 219.29212188720703,
+      "first_iso_jst": "2026-09-06T19:11:42.935684+09:00",
+      "last_iso_jst": "2026-09-06T19:15:22.226978+09:00",
+      "iso_span_seconds": 219.291294,
+      "date_counts_from_ts_jst": {
+        "2026-09-06": 192
+      },
+      "date_counts_from_iso_jst": {
+        "2026-09-06": 192
+      }
+    }
+  },
+  "max_iso_minus_ts_seconds": 0.0010399818420410156
+}

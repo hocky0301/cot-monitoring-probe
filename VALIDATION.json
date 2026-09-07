@@ -1,0 +1,106 @@
+{
+  "date_jst": "2026-09-07",
+  "input_files_preserved": 19,
+  "ending_exactly_preserved": true,
+  "title_and_frontmatter_preserved": true,
+  "methods_collapsed": true,
+  "local_numerical_evidence_unchanged": true,
+  "source_quote_words": 9,
+  "fixture_default_command_passed": true,
+  "fixture_original_executable_ast_and_result_match": true,
+  "main_characters": 5012,
+  "article_characters": 8247,
+  "article_urls": 4,
+  "published": false,
+  "new_paid_api_calls": 0,
+  "render": {
+    "rendered_diagrams": 1,
+    "diagram_characters": [
+      156
+    ],
+    "zenn_markdown_html": "0.5.2",
+    "mermaid": "11.17.2",
+    "desktop_width": 1100,
+    "mobile_width": 420,
+    "mobile_page_overflow": false,
+    "scope": "Local Zenn-flavored Markdown and Mermaid preview; no Zenn upload or live-site render."
+  },
+  "interaction": {
+    "appendix_initially_collapsed": true,
+    "summary_click_opens_and_closes": true,
+    "mobile_open_appendix_page_overflow": false,
+    "desktop_captured_sections": [
+      "grader",
+      "generations",
+      "length",
+      "ending"
+    ],
+    "mobile_captured_sections": [
+      "opening",
+      "generations"
+    ],
+    "no_unrendered_strong_delimiters": true
+  },
+  "no_absolute_filesystem_paths_in_delivered_text": true,
+  "source_verification": "New System Card passages reopened, source rates and exact short quotation checked, research record added.",
+  "visual_review": "Opening, grader scene, three-generation example, length connection, ending, comparison diagram and mobile samples inspected. Three unrendered emphasis spans were corrected and DOM checked. Not a live Zenn rendering.",
+  "external_publication": "None; the package URL remains to be supplied at publication.",
+  "file_sha256": {
+    "DATE_VERIFICATION.md": "43419ffd8b906fd7628e409b66634bc2d78a4f92789dcadd245ffe15aede7f98",
+    "EDITORIAL_DECISIONS.md": "3ff33304773f888ef5af1c845f2780377a2c4c4bd3aa1c1551ccdd12b19ff010",
+    "ERRORS_AND_CORRECTIONS.md": "84019a8d78f6c3b4082f79979da1732536b7c8e65ec18cbbc235486b599b84d4",
+    "README.md": "5a10b250ed08898f432e467b27a9921980f7603fe86ec44a6eeec58fb7d00c09",
+    "REQUEST_REVIEW.md": "c4a78e0f260f985e6c12249c0d7079f9377db8f390ad8717a9aff755f2785f87",
+    "RESEARCH_MAP.md": "a78713a3263be1f4730431f0de4fbb1fdce078cc69a2c8faa7b67e32bc813d82",
+    "SOURCES.md": "f86fa22043278173d7d1e491a00e46d46611c8489b254b43e604f3d5f0b1a17f",
+    "article-preview.html": "a55b5fc6e0c1114f5d11a363a309d982e9eeb1b2ab7729d1977ea63f12993eb9",
+    "astra-honesty.md": "cbc5536aec148d0e5768771288db58646f237f7ff91d8aa2e4ee4c768e6f318f",
+    "verification/README.md": "aadd60f2d007e5fd9883f8b03b00e4723f38a20dd938f95c3dd8fa4a20f9c301",
+    "verification/evidence_report.md": "19a6479f9b9f96ad0f4774b129c1a32e3233f3c4316662a6df716caf3bd95584",
+    "verification/fixture_reproduction.json": "20a3cb710ff1e0a9d28c5007e23fa64635b12ff5280099192d158985af3b2786",
+    "verification/recompute.py": "188149e453c444071161e8db8233a0bbc4a92680555560c4defb83a0101242c9",
+    "verification/reproduce_empty_fixture.py": "586382e6c1c4344c35a57aba27be1afa8d4e0e28838dd69443279996f51285a7",
+    "verification/results.json": "b916dba3c511ca418861dd4a27b4689478b902c5c77ead3211637b2c9a923ad9",
+    "verification/runs.jsonl": "5c462eac55a8bea2c5df74161463db71aba57c5f54d2d63099d336bf3de81c84",
+    "verification/source_checks.json": "1f6d0f58faf958ea44fe0831c18eb5f8b8d9f724990013af6e39629cf29f0511",
+    "verification/source_evidence.json": "7f179d0c5f91c298ccb07061f51956ff6494621466a2b6a6d7806a1223a55473",
+    "verification/stimuli.json": "b651578607fb6b6acdb41fb397c5d0b15c254244890ae2c3f50d47d7d48a4d76",
+    "verification/timeline.json": "d3ec27d5193fa030cb08e207560db435744507fdd3e30d9da7407d02ccaa1b3c",
+    "verification/verification.json": "a00ffb060cf2a89f18895e8c45efc935ddf4a27d83a918db7d654809258656e1"
+  },
+  "date_revision": {
+    "announcement_and_system_card_publication_date": "2026-09-03",
+    "experiment_date_jst": "2026-09-06",
+    "three_required_elements_in_one_main_body_sentence": true,
+    "all_684_and_main_672_timestamps_recomputed": true,
+    "existing_article_text_unchanged_except_date_additions": true,
+    "existing_supporting_evidence_hashes_unchanged": true,
+    "visual_review": "Desktop opening and date appendix, plus mobile opening were inspected at the date-insertion stage. The subsequent removal was checked against a fresh local render and article content.",
+    "new_paid_api_calls": 0,
+    "record_span_distinguished_from_runtime_in_supporting_audit": true,
+    "prior_date_insertion_interaction": {
+      "appendix_initially_collapsed": true,
+      "summary_click_opens_and_closes": true,
+      "date_sentence_outside_appendix": true,
+      "mobile_open_appendix_page_overflow": false,
+      "no_unrendered_strong_delimiters": true,
+      "desktop_captured_sections": [
+        "date appendix"
+      ],
+      "mobile_captured_sections": [
+        "opening",
+        "date appendix"
+      ]
+    }
+  },
+  "duration_removal": {
+    "requested_by_user": true,
+    "article_time_range_table_and_runtime_caveat_removed": true,
+    "opening_title_frontmatter_and_ending_unchanged": true,
+    "other_methods_text_unchanged": true,
+    "raw_timestamp_evidence_unchanged": true,
+    "preview_regenerated": true,
+    "no_duration_expressions_in_article_or_preview": true,
+    "new_paid_api_calls": 0
+  }
+}
