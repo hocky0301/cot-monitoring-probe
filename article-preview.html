@@ -76,7 +76,7 @@
 <p data-line="143" class="code-line">それでも、レビューが何周目かは、この一文の正しさを決めない。今回の足場になったのは、採点コードを開き、空欄を入れて、合格が返ることを確かめた操作だった。</p>
 <p data-line="145" class="code-line">今回のレビューはAstraから独立していない。それでも、コードを読ませ、集計をやり直させる使い道はある。モデルの説明を離れて確かめられる、入力と出力が残るからだ。</p>
 <p data-line="147" class="code-line">反対に、保存しなかった36件の回答は、もっと厳しく査読させても戻らない。ここは、原稿をうまく書き直して埋められる空白ではない。</p>
-<p data-line="149" class="code-line">記事と一緒に、保存ログ、設問、告知文、再集計コード、採点器の人工入力を検証パッケージにまとめた。空欄の合格は、<code>verification/reproduce_empty_fixture.py</code> で再現できる。集計手順は下の補足に置く。</p>
+<p data-line="149" class="code-line">記事と一緒に、保存ログ、設問、告知文、再集計コード、採点器の人工入力を検証パッケージにまとめ、<a href="https://github.com/hocky0301/cot-monitoring-probe" target="_blank" rel="nofollow noopener noreferrer">GitHubで公開した</a>。<code>git clone</code> してそのルートで実行すれば、空欄の合格は <code>verification/reproduce_empty_fixture.py</code> で再現できる。APIキーも追加パッケージも要らない。集計手順は下の補足に置く。</p>
 <p data-line="151" class="code-line">冒頭のマグカップは、Astraが書いた文章だけでは、答えを出した経路を読み取れない例だった。手元の実験では、今度はAstraについて書いた原稿のほうが、採点コードにない意味を語っていた。</p>
 <p data-line="153" class="code-line"><code>compliant=True</code> が保証していたのは、番号が揃っていることだった。</p>
 <p data-line="155" class="code-line"><strong>「正直さ」は、そのあとで文章が書き足していた。</strong></p>
