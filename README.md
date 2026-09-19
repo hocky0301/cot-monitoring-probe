@@ -56,4 +56,4 @@ Response bodies were never saved, so the actual answers cannot be re-scored.
 
 ## License
 
-MIT for the code and text in this repository. Quoted third-party material remains under its own terms.
+Source-available: the code and text in this repository are published to be read. Any use beyond reading and personal evaluation needs my written permission — see [LICENSE](LICENSE). Versions published before 2026-09-19 were under MIT. Quoted third-party material remains under its own terms.
